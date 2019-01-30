@@ -1,3 +1,10 @@
+-- The writings that follows is the default Adonis Application boilerplate instructions.
+
+For more information about Adonis, visit [Adonis.js Website](https://adonisjs.com)
+
+
+----------------------------------------------
+
 # Adonis fullstack application
 
 This is the fullstack boilerplate for AdonisJs, it comes pre-configured with.
